@@ -4,3 +4,5 @@ Mi primer repositorio
 
 I like 📚, 🍫, 🧉 and 🏋️‍♀️.
 I love 👨‍👩‍👧, 👩‍💻 and 👩‍🔬. 
+
+Perdón por lo que dije cuándo tenía hambre.
