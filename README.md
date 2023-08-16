@@ -7,4 +7,4 @@ I love 👨‍👩‍👧, 👩‍💻 and 👩‍🔬.
 
 Perdón por lo que dije cuándo tenía hambre.
 
-Cambio para descargar al repo local. 
+Edito línea para actividad. 
